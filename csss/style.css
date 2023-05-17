@@ -1,0 +1,116 @@
+body{
+    background-color: #DDDDD6;
+    
+}
+.whole{
+    display: flex;
+    background-color: #f8a304f7;
+    height: 80px;
+}
+.rio{
+    display: flex;
+    background-color: rgba(207, 204, 199, 0.97);
+    height: 50px;
+
+}
+.guy{
+    display: flex;
+    background-color: white;
+    height: 40px;
+}
+.yo{
+    border: solid black 1px;
+    border-radius: 20px;padding: 5px;
+    width: 250px;
+    height: 10px;
+    padding-right: 20px;
+    align-self: center;
+    position: relative;
+    left: 100px;
+}
+.hap{
+    color: #0A0101;
+    border: solid white 1px;
+    font-size: 15px;
+    align-self: center;
+    width: 2px;
+    height: 4px;
+    position: relative;
+    left: 110px;
+    bottom: 10px;
+}
+.rex{
+    display: flex;
+    padding-top: 30px;
+}
+.boi{
+    padding-top: 200px;
+}
+.ray{
+    padding-left: 100px;
+}
+.jack{
+    color: #CF8080;
+    border: solid white 1px;
+    border-radius: 10px; padding: 5px;
+    font-size: 15px;
+    text-align:center;
+    width: 200px;
+    height: 400px;
+}
+body{
+    background-color: #DDDDD6;
+}
+.whole{
+    display: flex;
+    background-color: #f8a304f7;
+    height: 80px;
+}
+.rio{
+    display: flex;
+    background-color: rgba(207, 204, 199, 0.97);
+    height: 50px;
+
+}
+.guy{
+    display: flex;
+    background-color: white;
+    height: 40px;
+}
+.grow{
+    margin-left: 22%;
+    margin-top: 20px
+}
+.ro{
+    height: 30px;
+    width: 1498px;
+    background-color: white;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.wea{
+    position: relative;
+    left: 700px;
+    top: 5px;
+}
+.hadiz{
+    height: 30px;
+    width: 1498px;
+    background-color: #868080;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    
+}
+.hadi{
+    position: relative;
+    top: 10px;
+    
+}
+.hid{ 
+    display:flex;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
